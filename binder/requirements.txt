@@ -1,0 +1,8 @@
+bluesky-widgets
+dask-labextension
+databroker
+ipympl
+jupyterlab >=3
+matplotlib
+nbgitpuller
+voila
