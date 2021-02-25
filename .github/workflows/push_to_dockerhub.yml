@@ -16,3 +16,4 @@ jobs:
       with:
         DOCKER_USERNAME: nsls2damaservice
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+        IMAGE_NAME: nsls2/aimm-binder
