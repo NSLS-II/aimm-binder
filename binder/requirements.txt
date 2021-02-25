@@ -1,6 +1,7 @@
 bluesky-widgets
 dask-labextension
 databroker
+databroker-pack
 ipympl
 jupyterlab >=3
 matplotlib
